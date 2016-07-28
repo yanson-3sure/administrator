@@ -21,7 +21,7 @@ return array(
      *
      * @type string
      */
-    'title' => 'EST 官网管理',
+    'title' => '3Sure 后台管理',
 
     /*
      * The path to your model config directory
